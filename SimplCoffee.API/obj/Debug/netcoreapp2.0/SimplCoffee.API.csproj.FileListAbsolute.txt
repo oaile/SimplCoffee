@@ -1,0 +1,11 @@
+D:\DotNetCore\SimplCoffee\SimplCoffee\SimplCoffee.API\bin\Debug\netcoreapp2.0\SimplCoffee.API.deps.json
+D:\DotNetCore\SimplCoffee\SimplCoffee\SimplCoffee.API\bin\Debug\netcoreapp2.0\SimplCoffee.API.runtimeconfig.json
+D:\DotNetCore\SimplCoffee\SimplCoffee\SimplCoffee.API\bin\Debug\netcoreapp2.0\SimplCoffee.API.runtimeconfig.dev.json
+D:\DotNetCore\SimplCoffee\SimplCoffee\SimplCoffee.API\bin\Debug\netcoreapp2.0\SimplCoffee.API.dll
+D:\DotNetCore\SimplCoffee\SimplCoffee\SimplCoffee.API\obj\Debug\netcoreapp2.0\SimplCoffee.API.csprojResolveAssemblyReference.cache
+D:\DotNetCore\SimplCoffee\SimplCoffee\SimplCoffee.API\obj\Debug\netcoreapp2.0\SimplCoffee.API.csproj.CoreCompileInputs.cache
+D:\DotNetCore\SimplCoffee\SimplCoffee\SimplCoffee.API\obj\Debug\netcoreapp2.0\SimplCoffee.API.AssemblyInfoInputs.cache
+D:\DotNetCore\SimplCoffee\SimplCoffee\SimplCoffee.API\obj\Debug\netcoreapp2.0\SimplCoffee.API.AssemblyInfo.cs
+D:\DotNetCore\SimplCoffee\SimplCoffee\SimplCoffee.API\bin\Debug\netcoreapp2.0\SimplCoffee.API.pdb
+D:\DotNetCore\SimplCoffee\SimplCoffee\SimplCoffee.API\obj\Debug\netcoreapp2.0\SimplCoffee.API.dll
+D:\DotNetCore\SimplCoffee\SimplCoffee\SimplCoffee.API\obj\Debug\netcoreapp2.0\SimplCoffee.API.pdb
