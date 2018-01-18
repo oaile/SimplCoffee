@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ApplicationCore.Interfaces;
+using ApplicationCore.Services;
 using Infrastructure.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -26,8 +28,10 @@ namespace SimplCoffee.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<CoffeeDbContext>(options =>
-        options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
+            services.AddScoped<IPostService, PostService>();
+           // services.AddScoped<IRepository<T>, EfRepository>();
             services.AddMvc();
         }
 
