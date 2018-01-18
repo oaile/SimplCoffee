@@ -23,7 +23,7 @@ namespace Infrastructure.Data
 
         private void ConfigurePost(EntityTypeBuilder<Post> builder)
         {
-            //builder.("Catalog");
+            builder.ToTable("Post");
         }
     }
 }
