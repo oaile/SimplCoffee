@@ -21,6 +21,7 @@ namespace Infrastructure.Data
         private void ConfigurePost(EntityTypeBuilder<Post> builder)
         {
             builder.ToTable("Post");
+            builder.HasKey(p => p.Id);
         }
     }
 }

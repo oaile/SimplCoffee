@@ -31,7 +31,7 @@ namespace SimplCoffee.API
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddScoped<IPostService, PostService>();
-           // services.AddScoped<IRepository<T>, EfRepository>();
+            services.AddScoped(typeof(IRepository<>), typeof(EfRepository<>));
             services.AddMvc();
         }
 
